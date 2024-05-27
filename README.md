@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @tech1-smg
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning AWS
+- 💞️ I’m looking to collaborate on interesting ideas
+- 📫 How to reach me slack me
+- 😄 Pronouns: he/his
+- ⚡ Fun fact: I love open Source
