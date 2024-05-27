@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on interesting ideas
 - 📫 How to reach me slack me
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I love open Source
